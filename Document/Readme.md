@@ -1,7 +1,5 @@
-Here you will find the pdf files about the Ideation Phase consists of
-
-1.Problem statement
-
-2.Empathy Map Canvas
-
-3.Brainstorming
+Here you will find the pdf file about the Project Planning Phase consist of 
+Data Flow Diagrams and User Stories.pdf
+Readme.md
+Solution Requirements.pdf
+Technology Stack Template.pdf
